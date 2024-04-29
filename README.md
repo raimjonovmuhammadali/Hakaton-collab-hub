@@ -1,6 +1,6 @@
-# Nuxt 3 Minimal Starter
+# Hakaton | Collab Hub loyihasi
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Backend api | https://github.com/abduvaliyevsalohiddin/Hakaton.git
 
 ## Setup
 
